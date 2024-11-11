@@ -1,0 +1,26 @@
+.btn {
+  padding-top: 24px;
+  padding: 20px 32px;
+  line-height: 24px;
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.btn-primary {
+  width: 219px;
+  height: 64px;
+  margin-left: 160px;
+  color: #ffffff;
+  background-color: #444cfc;
+  background-image: url("../imags/Shape-btn.svg");
+  background-repeat: no-repeat;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
+
+.btn:active {
+  opacity: 0.6;
+}

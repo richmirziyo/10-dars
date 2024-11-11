@@ -1,0 +1,140 @@
+.hero {
+  display: flex;
+  justify-content: space-between;
+  background-color: #232536;
+  gap: 93px;
+}
+.hero-title {
+  padding: none;
+}
+
+.hero-icon {
+  width: 24px;
+  height: 24px;
+  margin-bottom: 24px;
+  margin-top: 152px;
+  margin-left: 160px;
+}
+
+.hero-image {
+  width: 563px;
+  height: 632px;
+  top: 176px;
+  margin-top: 96px;
+  margin-right: 877px;
+  margin-bottom: 170px;
+}
+.hero-text {
+  display: flex;
+  width: 624px;
+  font-weight: 600;
+  font-size: 56px;
+  line-height: 68px;
+  color: #fff;
+  margin-top: 280px;
+  margin-left: 160px;
+  margin-top: 24px;
+}
+.hero-content {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  margin-left: 160px;
+  margin-top: 24px;
+  height: 48px;
+  width: 528px;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.hero-wrapper {
+  /* width: 1280px;
+  height: 106px; */
+  /* display: flex; */
+  /* margin-top: 760px; */
+  /* margin-left: 379px; */
+  opacity: 80%;
+  gap: 32px;
+}
+
+.hero-logo-img {
+}
+
+.main-about {
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 58px;
+  width: 640px;
+  height: 174px;
+
+  margin-left: 160px;
+}
+
+.main-content {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 54px;
+  width: 547px;
+  height: 54px;
+  margin-left: 892px;
+  gap: 92px;
+}
+.main-about-title {
+  width: 1279px;
+  padding-top: 120px;
+  margin-top: 120px;
+  margin-left: 160px;
+}
+
+.main-item {
+  width: 547px;
+  height: 72px;
+  top: 1211px;
+  margin-left: 892px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 73px;
+}
+
+.main-img {
+  width: 418px;
+  height: 446px;
+  align-items: center;
+  padding: none;
+}
+
+.main-logo {
+  color: #000000;
+  width: 1280px;
+  height: 96px;
+  margin-left: 160px;
+  margin-top: 48px;
+  margin-bottom: 98px;
+  bottom: 1px;
+  gap: 66px;
+}
+
+.main-logos {
+  width: 135px;
+  height: 96px;
+  gap: 66px;
+}
+
+.main-bg {
+  width: 1700px;
+  height: 660px;
+  background-color: #ecf8f9;
+}
+.expertis-title {
+  padding-top: 142px;
+  margin-top: 240px;
+  width: 622px;
+  height: 230px;
+  margin-left: 162px;
+}
+
+.expertis-item {
+  width: 622px;
+  height: 72px;
+  margin-left: 162px;
+}

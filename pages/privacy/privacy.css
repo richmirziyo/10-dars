@@ -1,0 +1,61 @@
+@import "../../css/global.css";
+.main-hero {
+  width: 1277px;
+  height: 138px;
+  margin-top: 176px;
+  margin-left: 160px;
+}
+.main-icon {
+  width: 24px;
+  height: 24px;
+}
+.main-sheap-img {
+  width: 48px;
+  height: 52px;
+  margin-left: 1205px;
+}
+.main-title {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+}
+.main-november {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+  opacity: 60%;
+}
+.main-colection {
+  width: 1280px;
+  height: 1280px;
+  margin-top: 100px;
+  margin-left: 160px;
+  padding-left: 221px;
+  padding-right: 230px;
+  background-color: #ecf8f9;
+}
+.main-text {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 54px;
+  padding-top: 96px;
+  padding-bottom: 24px;
+}
+.main-wirting {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+.main-garizon-img {
+  width: 296px;
+  height: 24px;
+  margin-left: 161px;
+}
+.main-imformation {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  padding-top: 40px;
+  padding-bottom: 16px;
+}
